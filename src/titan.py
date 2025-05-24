@@ -1,5 +1,3 @@
-"""Aria3.py: Aria's brain."""
-
 import json
 
 async def get_summary(history, turn_count, bedrock):
