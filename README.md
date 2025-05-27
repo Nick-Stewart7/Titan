@@ -2,6 +2,8 @@ Titan is a GenAI-powered chatbot designed to assist with cloud troubleshooting, 
 
 Titan demonstrates how GenAI can accelerate technical support by delivering high-quality, on-demand guidance. It reflects my expertise in AWS systems and my vision for AI-augmented cloud engineering.
 
+*Currently deploying Titan on AWS – Lambda + Bedrock + Amplify. Live demo coming soon.*
+
 Tech Stack:
 
 Python
